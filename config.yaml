@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://suspicious-liskov-e4c8c3.netlify.app
 languageCode: en-us
-title: Forty
+title: Portfolio website for Yuxin
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -14,8 +14,8 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
+      - city: London
+        country: United Kingdom
         street: Street
         title: Address
     buttonClear: Clear
@@ -116,3 +116,4 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+    
