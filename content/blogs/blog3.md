@@ -3,13 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:13-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: Paris has always been my first choice for special occasions. I have celebrated my birthday and the New Year Eve under the Eiffel Tower. Those were great memories, although my friend's phone was stolen that night, which stored all our photos taken in Paris. 
 draft: false
-image: pic08.jpg
+image: FR2.jpg
 keywords: ""
-slug: tempus
-title: Tempus
+slug: Paris
+title: Paris
 ---
+
+Paris has always been my first choice for special occasions. I have celebrated my birthday and the New Year Eve under the Eiffel Tower. Those were great memories, although my friend's phone was stolen that night, which stored all our photos taken in Paris.

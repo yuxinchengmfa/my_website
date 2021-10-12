@@ -3,12 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: ""
+description: "Since we know each other so well, I know it won't complain that I put it in the end. Even though most Germans prefer Munich, Frankfurt is my favorite in Germany. Having lived here for five years, it's almost like my second hometown. The only impression of Frankfurt to many people is probably the airport, but I highly recommend it for long-term residences."
 draft: false
-image: pic10.jpg
+image: DE2.jpg
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: Frankfurt
+title: Frankfurt
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+Since we know each other so well, I know it won't complain that I put it in the end. Even though most Germans prefer Munich, Frankfurt is my favorite in Germany. Having lived here for five years, it's almost like my second hometown. The only impression of Frankfurt to many people is probably the airport, but I highly recommend it for long-term residences.

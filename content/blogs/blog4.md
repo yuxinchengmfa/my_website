@@ -3,13 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: I have decided to start my career in London since several years, even though I just moved to London one month ago and have never been here before. For me, it is a land of opportunity and I am more than excited to take on the challenges to gain a foothold here. 
 draft: false
-image: pic07.jpg
+image: UK2.jpg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: London
+title: London
 ---
+
+I have decided to start my career in London since several years, even though I just moved to London one month ago and have never been here before. For me, it is a land of opportunity and I am more than excited to take on the challenges to gain a foothold here.
