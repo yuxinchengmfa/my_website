@@ -92,8 +92,8 @@ params:
         subtitle: Barcelona - tip to escape the cold winter in central Europe
         title: Spain
         url: blogs/barcelona
-      - image: IT1.jpg
-        subtitle: Click here to find out the data project I have done
+      - image: Data.jpg
+        subtitle: Click here to find out one of the data projects I have done
         title: Data Project
         url: blogs/data
   two:
