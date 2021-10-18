@@ -8,14 +8,14 @@ params:
   banner:
     buttonText: READY FOR THE JOURNEY?
     subtitle: |-
-      A ABSOLUTELY HIGH-CLASS BLOG ONLY OPEN TO PEOPLE WITH GOOD TASTE.
-    title: FOOTPRINT OF MS. CHENG
+      DISCOVER MY FOOTPRINT AND DATA PROJECTS
+    title: Welcome to my blog
   blog: {}
   contact:
     address:
       - city: 
         country: 
-        street: Center of universe
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -84,24 +84,24 @@ params:
         subtitle: Paris - my favorite city in Europe, but only for vacation pls
         title: France
         url: blogs/paris
-      - image: BG1.jpg
-        subtitle: Brussels - most Germans I know have never been there and wonder why people would want to go there
-        title: Belgium
-        url: blogs/brussels
+      - image: IT1.jpg
+        subtitle: Milan - almost forgot I have lived here for half a year but love this city absolutely
+        title: Italy
+        url: blogs/milan
       - image: SP1.jpg
         subtitle: Barcelona - tip to escape the cold winter in central Europe
         title: Spain
         url: blogs/barcelona
       - image: IT1.jpg
-        subtitle: Milan - almost forgot I have lived here for half a year but love this city absolutely
-        title: Italy
-        url: blogs/milan
+        subtitle: Click here to find out the data project I have done
+        title: Data Project
+        url: blogs/data
   two:
     buttonText: CLICK HERE
     enable: yes
     subtitle: "Having lived in Europe for eight years as a foreigner, I wrote this Blog to share my own experiences 
-    in traveling around Europe. All the comments are subjective and please do not leave any criticisms in the message.
-    Thank you for visiting the site and I really appreciate the traffic you contributed!"
+    in traveling around Europe. Besides traveling, I love coding and am thrilled to share one of the projects I have done with you.
+    Thank you for visiting the site and I look forward to receiving your messages!"
     title: Welcome
     url: blogs
     

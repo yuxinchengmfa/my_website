@@ -2,13 +2,13 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T22:42:51-05:00"
-description: I have visited Belgium twice and have been to Brussels, Gent, Brugge and Antwerp. The cities are small but beautiful. However, I would not recommend the girls on diet to visit there, since it has really good waffles and chocolate.
+date: "2017-10-31T21:28:43-05:00"
+description: "Even though most Germans prefer Munich, Frankfurt is my favorite in Germany. Having lived here for five years, it's almost like my second hometown. The only impression of Frankfurt to many people is probably the airport, but I highly recommend it for long-term residences."
 draft: false
-image: BG2.jpg
+image: DE2.jpg
 keywords: ""
-slug: Brussels
-title: Brussels
+slug: Frankfurt
+title: Frankfurt
 ---
 
-I have visited Belgium twice and have been to Brussels, Gent, Brugge and Antwerp. The cities are small but beautiful. However, I would not recommend the girls on diet to visit there, since it has really good waffles and chocolate.
+Even though most Germans prefer Munich, Frankfurt is my favorite in Germany. Having lived here for five years, it's almost like my second hometown. The only impression of Frankfurt to many people is probably the airport, but I highly recommend it for long-term residences.
