@@ -1,4 +1,4 @@
-baseURL: https://suspicious-liskov-e4c8c3.netlify.app
+baseURL: https://yuxincheng.netlify.app/
 languageCode: en-us
 title: Portfolio website for Yuxin
 theme: forty
@@ -9,7 +9,7 @@ params:
     buttonText: READY FOR THE JOURNEY?
     subtitle: |-
       DISCOVER MY FOOTPRINT AND DATA PROJECTS
-    title: Welcome to my blog
+    title: Welcome to Yuxin Cheng's blog
   blog: {}
   contact:
     address:
